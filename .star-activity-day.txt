@@ -1,1 +1,2 @@
 activity-day:20775 claimed tt-a1i/archify b4a29380abcf
+activity-day:20775 done tt-a1i/archify 7a2e3cc50693
